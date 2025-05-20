@@ -19,8 +19,7 @@
 
 ## 📸 Screenshot
 
-> *(Add a screenshot here if available. You can upload an image and link it like this:)*
-> `![WeatherApp Screenshot](screenshot.png)`
+> ![WeatherApp Screenshot](Screenshot.png)
 
 ## 🛠️ How to Use
 
