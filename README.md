@@ -57,5 +57,3 @@
 Feel free to fork the repository and submit pull requests. Any contributions to improve the app are welcome!
 
 ---
-
-Let me know if you'd like me to tailor this more for a beginner or add more details like deployment or code structure.
